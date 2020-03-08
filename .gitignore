@@ -6,7 +6,7 @@ pids
 *.pid.lock
 
 ## NPM
-node_modules/
+node_modules
 jspm_packages
 .npm
 *.tgz
